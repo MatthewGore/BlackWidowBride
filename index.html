@@ -2,24 +2,38 @@
 <html>
 <head>
     <title>Black Widow Bride</title>
+    <script>
+        function disneyGamesAddFlashMessageListener(gameDivId, callbackName) {
+            return true;
+        }
+        function disneyGamesSendMessage(type, data) {
+            return true;
+        }
+        function disneyGamesAddMessageListener(fn) {
+            return true;
+        }
+        function disneyGamesClearMessageListeners() {
+            return true;
+        }
+    </script>
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
     <script src="disneygames-iframe.js"></script>
 </head>
 <body>
-<div id="DisneyGame" style="width:750px;height:500px;background-color:#000;position:relative;"></div>
-<script>
-    window.addEventListener("load", function() {
-        const ruffle = window.RufflePlayer.newest();
-        const player = ruffle.createPlayer();
-        const container = document.getElementById("DisneyGame");
-        container.appendChild(player);
-        player.style.width = "750px";
-        player.style.height = "500px";
-        player.load({
-            url: "content/a.dolimg.com/media/en-US/games/syndication/swf/gameShell_1_1_3.swf",
-            parameters: "id=379301&game=379301&gameDivId=DisneyGameElement&fileUrl=https://black-widow-bride.vercel.app/content/a.dolimg.com/media/en-US/games/hmn_spl_act_blackwidowbride_action/hmn_spl_puz_blackwidowbride.swf&type=AS3"
+    <div id="DisneyGame" style="width:750px;height:500px;background-color:#000;position:relative;"></div>
+    <script>
+        window.addEventListener("load", function() {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            const container = document.getElementById("DisneyGame");
+            container.appendChild(player);
+            player.style.width = "750px";
+            player.style.height = "500px";
+            player.load({
+                url: "content/a.dolimg.com/media/en-US/games/syndication/swf/gameShell_1_1_3.swf",
+                parameters: "id=379301&game=379301&gameDivId=DisneyGameElement&fileUrl=https://black-widow-bride.vercel.app/content/a.dolimg.com/media/en-US/games/hmn_spl_act_blackwidowbride_action/hmn_spl_puz_blackwidowbride.swf&type=AS3"
+            });
         });
-    });
-</script>
+    </script>
 </body>
 </html>
