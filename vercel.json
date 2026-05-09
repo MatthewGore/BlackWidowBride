@@ -1,4 +1,10 @@
 {
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "/content/a.dolimg.com/media/en-US/games/syndication/swf/:path*"
+    }
+  ],
   "headers": [
     {
       "source": "/(.*).swf",
