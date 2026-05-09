@@ -3,12 +3,6 @@
 <head><title>Black Widow Bride</title></head>
 <body>
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-    <script>
-    var disneyGames = {
-        addGame: function(config) {}
-    };
-    var config = { elementId: "game-container" };
-</script>
     <div id="game-container"></div>
     <script>
         window.addEventListener("load", function() {
@@ -18,10 +12,7 @@
             container.appendChild(player);
             player.style.width = "750px";
             player.style.height = "500px";
-            player.load({
-                url: "content/a.dolimg.com/media/en-US/games/syndication/swf/gameShell_1_1_3.swf",
-                parameters: "id=379301&game=379301&gameDivId=DisneyGameElement&fileUrl=content/a.dolimg.com/media/en-US/games/hmn_spl_act_blackwidowbride_action/hmn_spl_puz_blackwidowbride.swf&type=AS3"
-            });
+            player.load(player.load("content/a.dolimg.com/media/en-US/games/hmn_spl_act_blackwidowbride_action/hmn_spl_puz_blackwidowbride.swf");
         });
     </script>
 </body>
