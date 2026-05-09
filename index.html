@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Black Widow Bride</title>
-</head>
+<head><title>Black Widow Bride</title></head>
 <body>
-    <div id="game-container"></div>
-
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <div id="game-container"></div>
     <script>
         window.addEventListener("load", function() {
             const ruffle = window.RufflePlayer.newest();
@@ -15,7 +12,10 @@
             container.appendChild(player);
             player.style.width = "750px";
             player.style.height = "500px";
-            player.load("content/lol.disney.com/games/black-widow-bride");
+            player.load({
+                url: "content/a.dolimg.com/media/en-US/games/syndication/swf/gameShell_1_1_3.swf",
+                parameters: "id=379301&game=379301&gameDivId=DisneyGameElement&fileUrl=content/a.dolimg.com/media/en-US/games/hmn_spl_act_blackwidowbride_action/hmn_spl_puz_blackwidowbride.swf&type=AS3"
+            });
         });
     </script>
 </body>
