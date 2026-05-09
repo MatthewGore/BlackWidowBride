@@ -2,15 +2,21 @@
 <html>
 <head>
     <title>Black Widow Bride</title>
-    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 </head>
 <body>
-    <div id="game-container">
-        <ruffle-player
-            src="content/a.dolimg.com/media/en-US/games/syndication/swf/gameLoading_1_0_0.swf"
-            width="750"
-            height="500"
-        ></ruffle-player>
-    </div>
+    <div id="game-container"></div>
+
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script>
+        window.addEventListener("load", function() {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            const container = document.getElementById("game-container");
+            container.appendChild(player);
+            player.style.width = "750px";
+            player.style.height = "500px";
+            player.load("content/a.dolimg.com/media/en-US/games/syndication/swf/gameLoading_1_0_0.swf");
+        });
+    </script>
 </body>
 </html>
