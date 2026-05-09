@@ -1,0 +1,94 @@
+<settings>
+
+	<var name="debug" value="false" />
+	
+	<var name="language" value="en-gb" />
+	
+	<!-- MENUS STUFF -->
+	<var name="main_menu_story_text_fade_in_speed" value="280.0" />
+	<var name="main_menu_story_text_lines_height" value="27.0" />
+	<var name="level_title_screen_min_time" value="2.0" /> <!-- the minimum amount of seconds to spend in the level title screen -->
+	
+	<!-- GAMEPLAY STUFF -->
+	<var name="percent_of_happy_haunts_needed_to_exit_level" value="0.6667" />
+	<var name="character_health" value="100.0" /> <!-- the common health for all the characters -->
+	<var name="character_move_speed" value="8.0" />
+	<var name="game_complete_result_screen_delay" value="6.0" />
+	<var name="level_complete_result_screen_delay" value="4.0" />
+	<!--<var name="level_failed_result_screen_delay" value="6.0" />-->
+	<!--<var name="chance_of_scary_surprise" value="0.05" />-->
+	<!--<var name="alarm_duration" value="60.0" />--> <!-- how many seconds before time out to start the alarm -->
+	<var name="ezra_fireball_move_speed" value="16.0" />
+	
+	<!-- HUD STUFF -->
+	<var name="bag_item_x" value="32" />
+	<var name="bag_item_y" value="78" />
+	<var name="bag_item_scale" value="1.15" />
+	
+	<!-- SOUND STUFF -->
+	<var name="music_volume" value="0.42" />
+	<var name="sound_range" value="750.0" />
+	
+	<var name="ambience_sound_min_interval" value="15.0" />
+	<var name="ambience_sound_max_interval" value="45.0" />
+	
+	<!-- SCORE STUFF -->
+	<var name="happy_haunt_saved_score_bonus" value="123" />
+	<var name="husband_saved_score_bonus" value="2500" />
+	<var name="time_remaining_score_bonus" value="24.0" /> <!-- per second of time remaining -->
+	<var name="black_widow_bride_hit_score_bonus" value="500" />
+	<var name="spider_death_score_bonus" value="350" />
+	<var name="knight_death_score_bonus" value="500" />
+	
+	
+	<!-- ENEMIES -->
+	<!-- Spider -->
+	<var name="spider_move_speed" value="4.0" />
+	<var name="spider_attack_damage" value="10.0" />
+	<var name="spider_attack_cooldown" value="2.0" />
+	<var name="spider_aggro_range" value="6" />
+	
+	<!-- Knight -->
+	<var name="knight_move_speed" value="1.0" />
+	<var name="knight_attack_damage" value="20.0" />
+	<var name="knight_attack_cooldown" value="2.0" />
+	<var name="knight_aggro_range" value="6" />
+	
+	<!-- Black Widow Bride -->
+	<var name="black_widow_bride_initial_spawn_delay_min_time" value="20.0" />
+	<var name="black_widow_bride_initial_spawn_delay_max_time" value="60.0" />
+	<var name="black_widow_bride_repeat_spawn_delay_min_time" value="40.0" />
+	<var name="black_widow_bride_repeat_spawn_delay_max_time" value="80.0" />
+	<var name="black_widow_bride_move_speed" value="1.0" />
+	<var name="black_widow_bride_attack_damage" value="20.0" />
+	<var name="black_widow_bride_attack_cooldown" value="2.0" />
+	
+	
+	<!-- Rats -->
+	<var name="rat_move_speed" value="6.0" />
+	<var name="rat_life_time" value="3.0" />
+	
+	
+	<!-- Misc. graphics stuff -->
+	<var name="damage_flash_length" value="20" /> <!-- how many frames of highlights -->
+	
+	<!-- FLOOR BUTTON ACTIVATION DELAY (updates) -->
+	<var name="floor_button_activation_delay" value="18" />
+	
+
+	<!-- DANCING GHOSTS -->
+	<var name="ghost_pause_time" value="3" /> <!-- value is in seconds -->
+	<var name="ghost_move_speed" value="5" />
+	<!-- 13CLOCK -->
+	<var name="13_clock_delay" value="5" />
+	<!-- PARTICLE GHOST -->
+	<var name="particle_ghost_life_time" value="50" />
+	<var name="particle_ghost_angular_velocity" value="0.12" />
+	<var name="particle_ghost_speed" value="2" /> <!-- 3-->
+	
+	
+	<var name="organ_ghost_spawn_delay" value="4" />
+	<var name="organ_ghost_spawn_offset_x" value="40" />
+	<var name="organ_ghost_spawn_offset_y" value="-100" />
+	
+</settings>

@@ -1,0 +1,51 @@
+<animations>
+	
+	<MCEnemyBride>
+		<animation id="idle_down" frames="1,2,3,4,5,6,7,6,5,4,3,2" then="_loop" />
+		<animation id="idle_side" frames="20,21,22,23,24,25,26,25,24,23,22,21" then="_loop" />
+		<animation id="idle_up" frames="39,40,41,42,43,44,45,44,43,42,41,40" then="_loop" />
+		<animation id="walk_down" frames="1,2,3,4,5,6,7,6,5,4,3,2" then="_loop" />
+		<animation id="walk_side" frames="20,21,22,23,24,25,26,25,24,23,22,21" then="_loop" />
+		<animation id="walk_up" frames="39,40,41,42,43,44,45,44,43,42,41,40" then="_loop" />
+		<animation id="attack_down" frames="8,9,10,11,12,13,14" then="idle_down" />
+		<animation id="attack_side" frames="27,28,29,30,31,32,33" then="idle_side" />
+		<animation id="attack_up" frames="46,47,48,49,50,51,52" then="idle_up" />
+		<animation id="fade_out_down" frames="15,16,17,18,19" then="_stop" />
+		<animation id="fade_out_side" frames="34,35,36,37,38" then="_stop" />
+		<animation id="fade_out_up" frames="53,54,55,56,57" then="_stop" />
+		<animation id="fade_in_down" frames="19,18,17,16,15" then="_stop" />
+		<animation id="fade_in_side" frames="38,37,36,35,34" then="_stop" />
+		<animation id="fade_in_up" frames="57,56,55,54,53" then="_stop" />
+	</MCEnemyBride>
+	
+	<MCKnight>
+		<animation id="idle_down" frames="1" then="_stop" />
+		<animation id="idle_side" frames="50" then="_stop" />
+		<animation id="idle_up" frames="25" then="_stop" />
+		<animation id="walk_down" frames="2,2,3,4,5,6,7,8,9,9,10,11,12,13,14,15,16,17" then="_loop" />
+		<animation id="walk_side" frames="51,51,52,53,54,55,56,57,58,59,59,60,61,62,63,64,65,66" then="_loop" />
+		<animation id="walk_up" frames="26,26,27,28,29,30,31,32,33,34,34,35,36,37,38,39,40,41" then="_loop" />
+		<animation id="attack_down" frames="18,19,20,21,22,23,24" then="idle_down" />
+		<animation id="attack_side" frames="67,68,69,70,71,72,73,74" then="idle_side" />
+		<animation id="attack_up" frames="42,43,44,45,46,47,48,49" then="idle_up" />
+		<animation id="death" frames="75,76,77,78,79,80,81,82,83,84,85" then="_stop" />
+	</MCKnight>
+	
+	<MCSpider>
+		<animation id="idle_down" frames="1" then="_stop" />
+		<animation id="idle_side" frames="56" then="_stop" />
+		<animation id="idle_up" frames="29" then="_stop" />
+		<animation id="walk_down" frames="2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18" then="_loop" />
+		<animation id="walk_side" frames="56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72" then="_loop" />
+		<animation id="walk_up" frames="30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45" then="_loop" />
+		<animation id="attack_down" frames="19,20,21,22,23,24,25,26,27,28" then="idle_down" />
+		<animation id="attack_side" frames="73,74,75,76,77,78,79,80,81,82" then="idle_side" />
+		<animation id="attack_up" frames="46,47,48,49,50,51,52,53,54" then="idle_up" />
+		<animation id="sucked" frames="83,84,85,86,87,88,89,90,91,92,93,94" then="stop" />
+	</MCSpider>
+	
+	<!--<MCEnemyDeath>
+		<animation id="explode" frames="1,2,3,4,5,6,7,8,9,10,11" then="_stop" />
+	</MCEnemyDeath>-->
+	
+</animations>

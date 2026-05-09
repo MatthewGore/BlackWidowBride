@@ -1,0 +1,244 @@
+<texts>
+	
+	<tutorial>
+	
+		<!-- tutorial popups -->
+        <text id="welcome_header"><![CDATA[TUTORIAL]]></text>
+		<text id="welcome_text"><![CDATA[Brace yourself stranger, for an unearthly ride.<br/>I'm Madam Leota, your mysterious guide.<br/>Press a number for the ghost to be selected,<br/>or click on the portraits, to each ghost they're connected! ]]></text>
+        
+        <text id="gus1_header"><![CDATA[TUTORIAL]]></text>
+		<text id="gus1_text"><![CDATA[I can use my ball and chain to press the floor switches to open secret passageways.]]></text>
+		
+		<text id="happyhaunt_header"><![CDATA[TUTORIAL]]></text>
+		<text id="happyhaunt_text"><![CDATA[Happy Haunts can be found in many places,<br/>Standing around in several spaces,<br/>found in objects and enemy foes,<br/>what they were doing there, nobody knows!]]></text>
+		
+        <text id="exit_header"><![CDATA[TUTORIAL]]></text>
+		<text id="exit_text"><![CDATA[To get through each room and make your way free,<br/>find Happy Haunts to get the Skeleton Key.]]></text>
+        
+        <text id="phineas1_header"><![CDATA[TUTORIAL]]></text>
+		<text id="phineas1_text"><![CDATA[I can carry items in my bag - that vase should fit nicely! I should probably put the vase on the other pedestal...which would undoubtedly activate its button!]]></text>
+        
+        <text id="key_header"><![CDATA[TUTORIAL]]></text>
+		<text id="key_text"><![CDATA[Eye of newt and root of tree,<br/>First you must find a Skeleton Key.<br/>To release the ghosts and escape this place,<br/>look for Happy Haunts in every space!]]></text>
+        
+        <text id="phineas2_header"><![CDATA[TUTORIAL]]></text>
+		<text id="phineas2_text"><![CDATA[I can pass through the glowing paintings. Click on the painting and see where I materialize.]]></text>
+        
+		<text id="candelabra_header"><![CDATA[TUTORIAL]]></text>
+		<text id="candelabra_text"><![CDATA[Use me to light the candelabra with my fireballs in order to see the way.]]></text>
+		
+		<text id="savepoint_header"><![CDATA[TUTORIAL]]></text>
+		<text id="savepoint_text"><![CDATA[Select this book to record your place<br/>and do not worry if you leave this space,<br/>even if all your energy is gone,<br/>this is the spot from where you will move on.]]></text>
+		
+		<text id="energy_header"><![CDATA[TUTORIAL]]></text>
+		<text id="energy_text"><![CDATA[Under your portraits, you will behold<br/>a glowing red bar surrounded by gold,<br/>if it becomes empty, then you will be sent<br/>to the book or entrance of this event.]]></text>
+		
+		<text id="attackbride_header"><![CDATA[TUTORIAL]]></text>
+		<text id="attackbride_text"><![CDATA[My fireball will scare the Black Widow Bride away!]]></text>
+		
+		<text id="spider_header"><![CDATA[TUTORIAL]]></text>
+		<text id="spider_text"><![CDATA[Beware, the Black Widow Spiders will harm us. Use my bag to trap them!]]></text>
+		
+		<text id="armor_header"><![CDATA[TUTORIAL]]></text>
+		<text id="armor_text"><![CDATA[I can use my ball and chain to smash these haunted armor to pieces.]]></text>
+		
+        <text id="paintings_header"><![CDATA[TUTORIAL]]></text>
+		<text id="paintings_text"><![CDATA[Phineas will help you with this next test,<br/>no windows or doors so do your best.<br/>Find portrait pieces strewn all about,<br/>then match them up to find your way out!]]></text>
+        
+        
+        
+        <text id="secretdoor_header"><![CDATA[TUTORIAL]]></text>
+		<text id="secretdoor_text"><![CDATA[That secret door needs three more vases to open.]]></text>
+		
+		
+		<text id="doorfalse_header"><![CDATA[TUTORIAL]]></text>
+		<text id="doorfalse_text"><![CDATA[This cursed door will lead nowhere new,<br/>seek yet another which you can pass through.]]></text>
+		
+		<text id="doortrue_header"><![CDATA[TUTORIAL]]></text>
+		<text id="doortrue_text"><![CDATA[Now that you have passed through a door that's unhexed,<br/>explore this new room to find out what is next.]]></text>
+		
+		<text id="clock_header"><![CDATA[TUTORIAL]]></text>
+		<text id="clock_text"><![CDATA[Alter the time by knocking on doors,<br/>each moves the hand by a few or some more<br/>The ghostly chest that remains now unseen,<br/>will reveal itself when the clock strikes 13!]]></text>
+		
+		<text id="coffin_header"><![CDATA[TUTORIAL]]></text>
+		<text id="coffin_text"><![CDATA[That coffin is trapping an unfortunate spirit,<br/>that's begging for help, listen close can you hear it?<br/>To open the coffin and answer its cry,<br/>you must find an object with which you can pry!]]></text>
+
+		<text id="crowbar1_header"><![CDATA[TUTORIAL]]></text>
+		<text id="crowbar1_text"><![CDATA[A crowbar can pry open the coffin's stone seal,<br/>hurry and see what the casket reveals!]]></text>
+		
+		<text id="notyet_conservatory_header"><![CDATA[TUTORIAL]]></text>
+		<text id="notyet_conservatory_text"><![CDATA[The Mansion needs searching a little bit more,<br/>To find the way to open this door.]]></text>
+		
+		<text id="notyet_graveyard_header"><![CDATA[TUTORIAL]]></text>
+		<text id="notyet_graveyard_text"><![CDATA[The Mansion needs searching a little bit more,<br/>To find the way to open this door.]]></text>
+		
+		<text id="dance_header"><![CDATA[TUTORIAL]]></text>
+		<text id="dance_text"><![CDATA[The dancing ghosts seem to be playing a game,<br/>and taking the wedding gift which you must reclaim.<br/>Hurry and snatch it when it reappears,<br/>or else you'll be facing the worst of your fears.<br/>]]></text>
+		
+		<text id="hatrack_header"><![CDATA[TUTORIAL]]></text>
+		<text id="hatrack_text"><![CDATA[This hat rack currently bears two of the five,<br/>hats of the husbands when they were alive.<br/>I see visions of you going free,<br/>if you can find and return the missing three.]]></text>
+		
+		<text id="brickwall_header"><![CDATA[TUTORIAL]]></text>
+		<text id="brickwall_text"><![CDATA[From the beyond I hear a sad call,<br/>that seems to be coming from inside that brick wall.<br/>Free and release it from this horrible state,<br/>or suffer yourself a more terrible fate.]]></text>
+		
+		<text id="crowbar2_header"><![CDATA[TUTORIAL]]></text>
+		<text id="crowbar2_text"><![CDATA[How do you take down a wall built of brick?<br/>Conjure a tool that will do just the trick.]]></text>
+		
+		<text id="respawn_header"><![CDATA[TUTORIAL]]></text>
+		<text id="respawn_text"><![CDATA[The Mansion's spirits have done you in,<br/>but don't lose hope, you still can win<br/>Your spirit energy has been revived<br/>So continue on, and look alive!]]></text>
+		
+    </tutorial>
+	
+	<story>
+		
+        <text id="giftportraitchamber_header"><![CDATA[THE BLACK WIDOW BRIDE]]></text>
+		<text id="giftportraitchamber_text"><![CDATA[What a lovely necklace. Not quite as lovely as me, of course. But I've misplaced my other necklaces. Find them or you'll find yourself trapped here forever!]]></text>
+        
+        <text id="giftcorridorofdoors_header"><![CDATA[THE BLACK WIDOW BRIDE]]></text>
+		<text id="giftcorridorofdoors_text"><![CDATA[Another pretty bauble! Find more to fill my jewelry box or you will never leave!]]></text>
+                
+        <text id="giftconservatory_header"><![CDATA[THE BLACK WIDOW BRIDE]]></text>
+		<text id="giftconservatory_text"><![CDATA[It takes a lot more than this necklace to appease me! Hurry! Before I lose my patience and you lose your life!]]></text>
+		
+        <text id="giftattic_header"><![CDATA[THE BLACK WIDOW BRIDE]]></text>
+		<text id="giftattic_text"><![CDATA[I promise to loath, horror and punish... Another necklace! But this is not all of them!]]></text>
+        
+        <text id="giftgraveyard_header"><![CDATA[THE BLACK WIDOW BRIDE]]></text>
+		<text id="giftgraveyard_text"><![CDATA[If anyone here who objects to this unholy union... ah, another beautiful necklace! But there are still more!]]></text>
+		
+		<text id="george_header"><![CDATA[GEORGE]]></text>
+		<text id="george_text"><![CDATA[Please help me! Only fancy jewelry can distract my bride long enough for me to escape! I was given the axe and have been trapped in my own home ever since!]]></text>
+		
+		<text id="george_saved_header"><![CDATA[GEORGE]]></text>
+		<text id="george_saved_text"><![CDATA[I've waited centuries for my freedom. Thank you brave stranger!]]></text>
+		
+		<text id="ambrose_header"><![CDATA[AMBROSE]]></text>
+		<text id="ambrose_text"><![CDATA[All I've wanted for more than 100 years is to go back to my parents' farm. Please distract my deadly bride and help me leave this cursed Mansion.]]></text>
+		
+		<text id="ambrose_saved_header"><![CDATA[AMBROSE]]></text>
+		<text id="ambrose_saved_text"><![CDATA[This is the best day of my afterlife! I can finally go home!]]></text>
+		
+		<text id="frank_header"><![CDATA[FRANK]]></text>
+		<text id="frank_text"><![CDATA[Thank you stranger! I'd be eternally grateful if you could preoccupy my bride with this necklace so I can make tracks. Being stuck in that casket almost made me lose my head...again!]]></text>
+		
+		<text id="frank_saved_header"><![CDATA[FRANK]]></text>
+		<text id="frank_saved_text"><![CDATA[I knew that pearl necklace would keep her busy, I can finally leave this cursed place!]]></text>
+		
+		<text id="leotatalk_header"><![CDATA[MADAME LEOTA]]></text>
+		<text id="leotatalk_text"><![CDATA[I call on the spirits in my seance room,<br/>who tell me you've met some unlucky grooms.<br/>That you've made it this far is truly impressive,<br/>perhaps you might escape the bride so obsessive.]]></text>
+		
+		<text id="leotabook_header"><![CDATA[MADAME LEOTA]]></text>
+		<text id="leotabook_text"><![CDATA[My book is protected by a powerful spell,<br/>to meddle with it would not bode you well.]]></text>
+		
+		<text id="marquis_header"><![CDATA[MARQUIS]]></text>
+		<text id="marquis_text"><![CDATA[Curse my wretched bride for trapping me here for eternity! You must distract her long enough for me to escape. I'm so tired of being treated like a pinhead!]]></text>
+		
+		<text id="marquis_saved_header"><![CDATA[MARQUIS]]></text>
+		<text id="marquis_saved_text"><![CDATA[I've longed to return to my home country for so long! I shall never forget this, thank you.]]></text>
+		
+		
+		<text id="reginald_header"><![CDATA[REGINALD]]></text>
+		<text id="reginald_text"><![CDATA[What good will it do to release me? I cannot escape this purgatory as long as the Black Widow Bride watches me!]]></text>
+		
+		<text id="reginald_saved_header"><![CDATA[REGINALD]]></text>
+		<text id="reginald_saved_text"><![CDATA[Can this be? I'm really free!]]></text>
+		
+		<text id="key_dropped_1_header"><![CDATA[HAPPY HAUNTS]]></text>
+		<text id="key_dropped_1_text"><![CDATA[You've set us free! At long last! Here's a key for your troubles.]]></text>
+		
+		<text id="key_dropped_2_header"><![CDATA[HAPPY HAUNTS]]></text>
+		<text id="key_dropped_2_text"><![CDATA[Finally! We're free! As a token of gratitude, take this key.]]></text>
+		
+	</story>
+    
+    <game>
+		<text id="gui_options_button"><![CDATA[OPTIONS]]></text>
+		<!--<text id="gui_energy_header"><![CDATA[ENERGY]]></text>-->
+		<!--<text id="gui_happy_haunts_caught_header"><![CDATA[HAPPY HAUNTS]]></text>-->
+		<!--<text id="gui_score_header"><![CDATA[SCORE]]></text>-->
+		
+		<text id="options_header"><![CDATA[OPTIONS]]></text>
+		<text id="options_text"><![CDATA[The game is paused.]]></text>
+		<text id="options_menu_button"><![CDATA[MENU]]></text>
+		<text id="options_back_button"><![CDATA[BACK]]></text>
+		<text id="options_help_button"><![CDATA[HELP]]></text>
+		
+		<text id="popup_back_button"><![CDATA[DONE]]></text>
+		
+		<!-- helper items multi-page hint popups -->
+		<text id="helper_header"><![CDATA[TUTORIAL]]></text>
+		<text id="helper_next_button"><![CDATA[NEXT]]></text>
+		<text id="helper_done_button"><![CDATA[DONE]]></text>
+    </game>
+    
+    <menu>
+		<text id="title_play_button"><![CDATA[PLAY]]></text>
+		<text id="title_logo_subtitle"><![CDATA[THE BLACK WIDOW BRIDE]]></text>
+	
+		<text id="main_menu_play_button"><![CDATA[PLAY]]></text>
+		<text id="main_menu_help_button"><![CDATA[HELP]]></text>
+		<text id="main_menu_story_text"><![CDATA[The ghostly Black Widow Bride is one of the former residents who chose to stay in the Mansion in the afterlife. Help the Hitchhiking Ghosts release 999 Happy Haunts and find their way out before they become her next victims.]]></text>
+		
+		<text id="level_select_menu_back_button"><![CDATA[BACK]]></text>
+		<text id="level_select_menu_clear_button"><![CDATA[CLEAR]]></text>
+		<text id="level_select_tutorials"><![CDATA[TUTORIALS]]></text>
+		<text id="level_select_score"><![CDATA[Your total score:]]></text>
+		
+		<text id="clear_progress_header"><![CDATA[CLEAR ALL PROGRESS]]></text>
+		<text id="clear_progress_text"><![CDATA[This will permanently clear all progress! Are you sure?]]></text>
+		<text id="clear_progress_yes_button"><![CDATA[YES]]></text>
+		<text id="clear_progress_no_button"><![CDATA[NO]]></text>
+		
+		<text id="how_to_play_header"><![CDATA[HOW TO PLAY]]></text>
+		<text id="how_to_play_text_1"><![CDATA[Use the mouse to help the three hitchhiking ghosts escape before time runs out.]]></text>
+		<text id="how_to_play_text_2"><![CDATA[Phineas can move through glowing paintings, pick up small objects, and capture spiders.]]></text>
+		<text id="how_to_play_text_3"><![CDATA[Ezra can use fireballs to light candelabras and scare away the Black Widow Bride.]]></text>
+		<text id="how_to_play_text_4"><![CDATA[Gus uses his ball and chain to defeat ghostly armor and trigger floor switches.]]></text>
+		<text id="how_to_play_text_5"><![CDATA[Release enough Happy Haunts to receive a key to the exit.]]></text>
+		<text id="how_to_play_text_6"><![CDATA[Free all 999 Happy Haunts and all five husbands to escape the Haunted Mansion!]]></text>
+		<text id="how_to_play_text_7"><![CDATA[ ]]></text>
+		<text id="how_to_play_back_button"><![CDATA[BACK]]></text>
+		
+		<text id="after_last_level_header"><![CDATA[ALMOST THERE!]]></text>
+		<text id="after_last_level_text"><![CDATA[Even though you've made it through all the rooms,<br/>you remain trapped here with all of the grooms!<br/>Your earlier steps you must soon retrace,<br/>and find all the Happy Haunts to escape this place!]]></text>
+		<text id="after_last_level_continue_button"><![CDATA[CONTINUE]]></text>
+		
+		<text id="game_complete_header"><![CDATA[CONGRATULATIONS!]]></text>
+		<text id="game_complete_text"><![CDATA[Creepies and crawlies, lizards and leeches,<br/>you got away from the Black Widow Bride's reaches!<br/><br/>Few have escaped, and many have died,<br/>when they have crossed paths with<br/>the Black Widow Bride!]]></text>
+		<text id="game_complete_continue_button"><![CDATA[CONTINUE]]></text>
+		
+		<text id="level_failed_header_time"><![CDATA[OH NO!]]></text>
+		<text id="level_failed_text_time"><![CDATA[Noooooooooo!<br/>Your time just expired...]]></text>
+		<text id="level_failed_header_energy"><![CDATA[OH NO!]]></text>
+		<text id="level_failed_text_energy"><![CDATA[Too bad!<br/>Our hitchhiking ghosts have run out of energy...]]></text>
+		<text id="level_failed_retry_button"><![CDATA[RETRY]]></text>
+		<text id="level_failed_menu_button"><![CDATA[MENU]]></text>
+		
+		<text id="level_completed_header"><![CDATA[CONGRATULATIONS!]]></text>
+		<text id="level_completed_text"><![CDATA[Our hitchhiking ghosts will continue to the next level.]]></text>
+		<text id="level_completed_continue_button"><![CDATA[CONTINUE]]></text>
+		<text id="level_completed_haunts_count_header"><![CDATA[HAPPY HAUNTS FOUND]]></text>
+		<text id="level_completed_haunts_score_header"><![CDATA[HAPPY HAUNTS SCORE]]></text>
+		<text id="level_completed_time_score_header"><![CDATA[TIME BONUS]]></text>
+		<text id="level_completed_enemy_score_header"><![CDATA[ENEMY BONUS]]></text>
+		<text id="level_completed_level_score_header"><![CDATA[LEVEL SCORE]]></text>
+		<text id="level_completed_total_score_header"><![CDATA[TOTAL SCORE]]></text>
+		
+		<!-- The display name of the different levels -->
+		<text id="attic"><![CDATA[Attic]]></text>
+		<text id="conservatory"><![CDATA[Conservatory]]></text>
+		<text id="corridor_of_doors"><![CDATA[Corridor Of Doors]]></text>
+		<text id="endless_hallway"><![CDATA[Endless Hallway]]></text>
+		<text id="foyer"><![CDATA[Foyer]]></text>
+		<text id="grand_hall"><![CDATA[Grand Hall]]></text>
+		<text id="grand_staircase"><![CDATA[Grand Staircase]]></text>
+		<text id="graveyard"><![CDATA[Graveyard]]></text>
+		<text id="mausoleum_entrance"><![CDATA[Mausoleum Entrance]]></text>
+		<text id="portrait_chamber"><![CDATA[Portrait Chamber]]></text>
+		<text id="portrait_hallway"><![CDATA[Portrait Hallway]]></text>
+		<text id="seance_circle"><![CDATA[Seance Circle]]></text>
+		
+    </menu>
+	
+	
+</texts>

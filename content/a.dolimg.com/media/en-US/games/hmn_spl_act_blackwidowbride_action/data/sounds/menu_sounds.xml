@@ -1,0 +1,16 @@
+<!-- default values are
+	baseVolume="1.0"
+	basePan="0.0"
+	loops="false"
+	baseOffset="0.0"
+	-->
+
+<sounds>
+	
+	<sound key="menu_click" className="SMenuClick" />
+	<sound key="menu_over" className="SMenuMouseOver" />
+	<!--<sound key="menu_out" className="" />-->
+	
+	<sound key="theres_no_turning_back" className="STheresNoTurningBack" />
+
+</sounds>

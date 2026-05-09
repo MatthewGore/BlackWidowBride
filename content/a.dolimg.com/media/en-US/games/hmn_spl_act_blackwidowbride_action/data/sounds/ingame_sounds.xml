@@ -1,0 +1,91 @@
+<!-- default values are
+	baseVolume="1.0"
+	basePan="0.0"
+	loops="false"
+	baseOffset="0.0"
+	-->
+
+<sounds>
+	
+	<sound key="ball_chain" className="SBallChain" />
+	<sound key="ball_drag" className="SBallDrag" />
+	<!--<sound key="ghost_float" className="SGhostFloat" />-->
+	<sound key="character_move" className="SCharacterMove" />
+	<!--<sound key="character_moving" className="SCharacterMoving" />-->
+	<!--<sound key="telekinesi" className="STelekinesi" loops="true" />-->
+	<sound key="teleport" className="STeleport" />
+	<sound key="activation" className="SActivation" />
+	<sound key="button" className="SButton" />
+	<sound key="clock_tick" className="SClockTick" />
+	<sound key="clock_activate" className="SClockActivate" />
+	<sound key="door_creek" className="SDoorCreek" />
+	<sound key="exit_level" className="SFinishLevel" />
+	<sound key="keys" className="SKeys" />
+	<sound key="knock" className="SKnock" />
+	<sound key="open_casket" className="SOpenCasket" />
+	<sound key="pickup" className="SPickup" />
+	<sound key="put_down_furniture" className="SPutDownFurniture" />
+	<sound key="put_down_object" className="SPutDownObject" />
+	<sound key="secret_door_slide" className="SSecretDoorSlide" />
+	<sound key="change_character" className="SChangeCharacter" />
+	
+	<sound key="puzzle_success" className="SSecretArea" />
+	
+	<sound key="activate_save_spot" className="SSecretArea" />
+	
+	<sound key="show_popup" className="SPopup" />
+	<sound key="hide_popup" className="SPopup" />
+	
+	<sound key="raven" className="SRaven" />
+	<sound key="trumpet" className="STrumpet" />
+	<sound key="harp" className="SHarp" />
+	<sound key="drums" className="SDrumRoll" />
+
+	<sound key="scary_1" className="SScary1" />
+	<sound key="scary_2" className="SScary2" />
+	<sound key="scary_3" className="SScary3" />
+	
+	<sound key="ambience" className="SAmbientDoorcreek" />
+	<sound key="ambience" className="SAmbientHowl" />
+	<sound key="ambience" className="SAmbientThunder" />
+	<sound key="ambience" className="SAmbientVoices" />
+	
+	<sound key="furniture_disappear" className="SFurnitureDisappear" />
+
+	
+	<!-- new for version 2 of the game -->
+	<sound key="armor_attack" className="SArmorAttack" />
+	<sound key="armor_die" className="SArmorDie" />
+	<sound key="armor_walk" className="SArmorWalk1" />
+	<sound key="armor_walk" className="SArmorWalk2" />
+	
+	<sound key="bag_suck" className="SBagSuck" loops="true" />
+	
+	<sound key="gus_ball_attack" className="SGusBallAttack" />
+	
+	<sound key="bride_attack" className="SBrideAttack" />
+	<sound key="bride_flee" className="SBrideFlee" />
+	<sound key="bride_spawn" className="SBrideSpawn" />
+	
+	<sound key="damage_taken" className="SDamageTaken" />
+	
+	<sound key="fireball_cast" className="SFireballCast" />
+	<sound key="fireball_impact" className="SFireballImpact" />
+	
+	<sound key="happy_haunt" className="SHappyHaunt1" />
+	<sound key="happy_haunt" className="SHappyHaunt2" />
+	<sound key="happy_haunt" className="SHappyHaunt3" />
+	
+	<sound key="rats" className="SRats" />
+	
+	<sound key="spider_aggro" className="SSpiderAggro" />
+	<sound key="spider_attack" className="SSpiderAttack" />
+	<sound key="spider_die" className="SSpiderDie" />
+	<sound key="spider_hiss" className="SSpiderHiss1" />
+	<sound key="spider_hiss" className="SSpiderHiss2" />
+	<sound key="spider_walk" className="SSpiderWalk1" />
+	<sound key="spider_walk" className="SSpiderWalk2" />
+	
+	<sound key="playable_death" className="SPlayableDeath" />
+	
+</sounds>

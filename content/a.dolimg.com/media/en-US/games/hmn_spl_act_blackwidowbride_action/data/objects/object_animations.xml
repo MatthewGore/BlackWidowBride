@@ -1,0 +1,267 @@
+<animations>
+	
+	<MCPuddle1>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="drip" frames="2,3,4,5,6,7,8,9,10,11,12" then="idle" />
+	</MCPuddle1>
+	
+	<MCBreathingDoor>
+		<animation id="breathe_down" frames="1,1,2,2,3,3,4,4,4,4,3,3,2,2,1,1" then="_loop" />
+		<animation id="breathe_left" frames="5,5,6,6,7,7,8,8,8,8,7,7,6,6,5,5" then="_loop" />
+		<animation id="breathe_up" frames="9,9,10,10,11,11,12,12,12,12,11,11,10,10,9,9" then="_loop" />
+		<animation id="breathe_right" frames="13,13,14,14,15,15,16,16,16,16,15,15,14,14,13,13" then="_loop" />
+	</MCBreathingDoor>
+	
+	<MCHappyHaunt>
+		<animation id="idle" frames="1,2,3,4,5,6,7" then="_loop" />
+		<animation id="release" frames="8,9,10,11,12,13,14,15,16,17,18,19,20,21,22" then="_stop" />
+	</MCHappyHaunt>
+	
+	<MCRat>
+		<animation id="idle_up" frames="1" then="_stop" />
+		<animation id="idle_side" frames="9" then="_stop" />
+		<animation id="idle_down" frames="17" then="_stop" />
+		<animation id="walk_up" frames="12,3,4,5,6,7,8" then="_loop" />
+		<animation id="walk_side" frames="9,10,11,12,13,14,15,16" then="_loop" />
+		<animation id="walk_down" frames="17,18,19,20,21,22,23,24" then="_loop" />
+		<animation id="fade_up" frames="25,26,27,28,29" then="_stop" />
+		<animation id="fade_side" frames="30,31,32,33,34" then="_stop" />
+		<animation id="fade_down" frames="35,36,37,38,39" then="_stop" />
+	</MCRat>
+	
+	<MCHarp>
+		<animation id="idle" frames="1,1,1,2,2,3,3,4,4,5,5,5,4,4,3,3,2,2" then="_loop" />
+	</MCHarp>
+	
+	<MCTrumpet>
+		<animation id="idle" frames="1,1,1,2,2,3,3,4,4,5,5,5,4,4,3,3,2,2" then="_loop" />
+	</MCTrumpet>
+	
+	<MCDrum>
+		<animation id="idle" frames="1,1,1,2,2,3,3,4,4,5,5,5,4,4,3,3,2,2" then="_loop" />
+	</MCDrum>
+	
+	
+	<MCHelpItem>
+		<animation id="idle" frames="1,1,1,1,2,2,3,3,4,4,5,5,6,6,6,6,5,5,4,4,3,3,2,2" then="_loop" />
+		<animation id="used" frames="7,8,9,10,11,12,13,14,15,16" then="_loop" />
+	</MCHelpItem>
+	
+	<MCLeotaTable>
+		<animation id="idle" frames="1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10" then="_loop" />
+	</MCLeotaTable>
+	
+	<MCFlavorGhost1>
+		<animation id="idle" frames="6,6,6,6,6,6,5,4,3,2,1,1,1,1,1,2,3,4,5,6" then="_loop" />
+	</MCFlavorGhost1>
+	
+	<MCFlavorGhost2>
+		<animation id="idle" frames="1,1,1,1,1,2,3,4,5,6,6,6,6,6,6,6,5,4,3,2" then="_loop" />
+	</MCFlavorGhost2>
+	
+	<MCFlavorGhost3>
+		<animation id="idle" frames="6,6,6,5,4,3,2,1,1,1,1,1,2,3,4,5,6,6,6,6" then="_loop" />
+	</MCFlavorGhost3>
+	
+	<MCOrganGhost>
+		<animation id="idle" frames="1,1,1,1,2,3,4,5,6,6,6,6,6,6,6,5,4,3,2" then="_loop" />
+	</MCOrganGhost>
+	
+	<MCLeotaChair>
+		<animation id="idle" frames="1" then="_loop" />
+		<animation id="lookaround" frames="2,2,3,3,3,3,3,3,2,2" then="idle" />
+	</MCLeotaChair>
+	
+	<MCBrickwall>
+		<animation id="idle" frames="1,1,2,2,3,3,4,4,1,1,5,5,1,1,4,4,3,3,2,2,1,1,5,5" then="_loop" />
+		<animation id="open" frames="6" then="_stop" />
+	</MCBrickwall>
+	
+	<MCCoffin>
+		<animation id="idle" frames="1,2,3,4,5,6,7,8,9,10,9,8,7,6,5,4,3,2" then="_loop" />
+		<animation id="open" frames="11" then="_stop" />
+	</MCCoffin>
+	
+	<MCDancerGhost1>
+		<animation id="idle" frames="1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6" then="_loop" />
+	</MCDancerGhost1>
+	<MCDancerGhost2>
+		<animation id="idle" frames="1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6" then="_loop" />
+	</MCDancerGhost2>
+	<MCDancerGhost3>
+		<animation id="idle" frames="1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6" then="_loop" />
+	</MCDancerGhost3>
+	<MCDancerGhost4>
+		<animation id="idle" frames="1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6" then="_loop" />
+	</MCDancerGhost4>
+	<MCDancerGhost5>
+		<animation id="idle" frames="1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6" then="_loop" />
+	</MCDancerGhost5>
+	<MCDancerGhost6>
+		<animation id="idle" frames="1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6" then="_loop" />
+	</MCDancerGhost6>
+	
+	
+	<MCPedestalWithButton>
+		<animation id="on" frames="2" then="_stop" />
+		<animation id="off" frames="1" then="_stop" />
+	</MCPedestalWithButton>
+	
+	<MCGroundButton>
+		<animation id="on" frames="2" then="_stop" />
+		<animation id="off" frames="1" then="_stop" />
+	</MCGroundButton>
+	
+	<MCSecretDoor>
+		<animation id="on" frames="1" then="_stop" />
+		<animation id="off" frames="3" then="_stop" />
+		<animation id="turn_off" frames="2,2,2" then="off" />
+		<animation id="turn_on" frames="2,2,2" then="on" />
+	</MCSecretDoor>
+	
+	<!-- the movables -->
+	
+	<MC2x1CabinetFront>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+		<animation id="search" frames="3,4,5,6,7,8,9" then="idle" />
+		<animation id="vanish" frames="10,11,12,13,14" then="_stop" />
+	</MC2x1CabinetFront>
+	
+	<MC2x1CabinetSide>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+		<animation id="search" frames="3,4,5,6,7,8,9" then="idle" />
+		<animation id="vanish" frames="10,11,12,13,14" then="_stop" />
+	</MC2x1CabinetSide>
+	
+	<MC4x4Table>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+		<animation id="search" frames="3,4,5,6,7,8,9" then="idle" />
+		<animation id="vanish" frames="10,11,12,13,14" then="_stop" />
+	</MC4x4Table>
+	
+	<MCBookShelfFront>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+		<animation id="search" frames="3,4,5,6,7,8,9" then="idle" />
+		<animation id="vanish" frames="10,11,12,13,14" then="_stop" />
+	</MCBookShelfFront>
+	
+	<MCBookShelfSide>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+		<animation id="search" frames="3,4,5,6,7,8,9" then="idle" />
+		<animation id="vanish" frames="10,11,12,13,14" then="_stop" />
+	</MCBookShelfSide>
+	
+	<MCChair1>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+		<animation id="search" frames="3,4,5,6,7,8,9" then="idle" />
+		<animation id="vanish" frames="10,11,12,13,14" then="_stop" />
+	</MCChair1>
+	
+	<MCChair2>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+		<animation id="search" frames="3,4,5,6,7,8,9" then="idle" />
+		<animation id="vanish" frames="10,11,12,13,14" then="_stop" />
+	</MCChair2>
+	
+	
+	<!-- the pickups -->
+	<MCBust>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+	</MCBust>
+	
+	<MCCandelabra>
+		<animation id="dark" frames="1,2,3,4,4,3,2,1" then="_loop" />
+		<animation id="lit" frames="5,6,7,8,8,7,6,5" then="_loop" />
+	</MCCandelabra>
+	
+	<MCVase>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+	</MCVase>
+	
+	<MCKey>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="selected" frames="2" then="_stop" />
+	</MCKey>
+	
+	
+	<!-- specials -->
+	<MCGhost1>
+		<animation id="spawn" frames="1,2,3,4,5" then="_stop" />
+	</MCGhost1>
+	<MCGhost2>
+		<animation id="spawn" frames="1,2,3,4,5" then="_stop" />
+	</MCGhost2>
+	<MCGhost3>
+		<animation id="spawn" frames="1,2,3,4,5" then="_stop" />
+	</MCGhost3>
+	
+	<MCGlitter>
+		<animation id="spawn" frames="1,2,3,4,5,6,7" then="_stop" />
+	</MCGlitter>
+	
+	<!-- level unique stuff -->
+	<MCSingingBust1>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="sing" frames="2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" then="_loop" />
+	</MCSingingBust1>	
+	
+	<MCSingingBust2>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="sing" frames="2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" then="_loop" />
+	</MCSingingBust2>
+	
+	<MCSingingBust3>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="sing" frames="2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" then="_loop" />
+	</MCSingingBust3>
+	
+	<MCSingingBust4>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="sing" frames="2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" then="_loop" />
+	</MCSingingBust4>
+	
+	<MCSingingBust5>
+		<animation id="idle" frames="1" then="_stop" />
+		<animation id="sing" frames="2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" then="_loop" />
+	</MCSingingBust5>
+		
+	<MCBride>
+		<animation id="idle" frames="1,2,3,4,5,6,7,6,5,4,3,2" then="_loop" />
+		<animation id="fade" frames="8,9,10,11,12" then="_stop" />
+	</MCBride>
+		
+	<MCGeorge>
+		<animation id="idle" frames="1,2,3,4,5,6,5,4,3,2" then="_loop" />
+		<animation id="fade" frames="7,8,9,10,11" then="_stop" />
+	</MCGeorge>
+		
+	<MCAmbrose>
+		<animation id="idle" frames="1,2,3,4,5,6,7,6,5,4,3,2" then="_loop" />
+		<animation id="fade" frames="8,9,10,11,12,13" then="_stop" />
+	</MCAmbrose>
+		
+	<MCFrank>
+		<animation id="idle" frames="1,2,3,4,5,6,5,4,3,2" then="_loop" />
+		<animation id="fade" frames="7,8,9,10,11,12" then="_stop" />
+	</MCFrank>
+		
+	<MCMarquis>
+		<animation id="idle" frames="1,2,3,4,5,6,7,6,5,4,3,2" then="_loop" />
+		<animation id="fade" frames="8,9,10,11,12" then="_stop" />
+	</MCMarquis>
+		
+	<MCReginald>
+		<animation id="idle" frames="1,2,3,4,5,6,7,6,5,4,3,2" then="_loop" />
+		<animation id="fade" frames="8,9,10,11,12,13" then="_stop" />
+	</MCReginald>
+
+</animations>

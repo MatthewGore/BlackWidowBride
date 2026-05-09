@@ -1,0 +1,12 @@
+<assets>
+    
+	<item className="MCGus" horizontal_flip="true" />
+	<item className="MCPhineas" horizontal_flip="true" />
+    <item className="MCEzra" horizontal_flip="true" />
+	<item className="MCGusBall" />
+	<item className="MCGusChainLink" />
+	<!--<item className="MCFurnitureArrows" />-->
+	<item className="MCEzraFireball" horizontal_flip="true" />
+	<item className="MCSuckFX" horizontal_flip="true" vertical_flip="true" />
+	
+</assets>

@@ -1,0 +1,9 @@
+<assets>
+    
+	<item className="MCHud" />
+    <item className="MCMouse" />
+	<item className="MCInGameOptions" />
+	<item className="MCInGamePopup" />
+	<item className="MCBubblePopup" />
+	
+</assets>

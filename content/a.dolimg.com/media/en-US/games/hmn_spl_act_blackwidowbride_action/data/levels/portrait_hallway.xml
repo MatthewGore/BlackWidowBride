@@ -1,0 +1,403 @@
+<level>
+	
+	<time>600.0</time> <!-- number of seconds the player has to complete the level -->
+    
+	<entities>
+        
+                <entity id="rat1" >
+			<on_search>
+				<action type="spawn" thingToSpawn="rat" />
+			</on_search>
+		</entity>
+                
+                <entity id="rat2" >
+			<on_search>
+				<action type="spawn" thingToSpawn="rat" />
+                                <action type="spawn" thingToSpawn="rat" />
+			</on_search>
+		</entity>
+                
+                <entity id="rat3" >
+			<on_search>
+				<action type="spawn" thingToSpawn="rat" />
+                                <action type="spawn" thingToSpawn="rat" />
+                                <action type="spawn" thingToSpawn="rat" />
+                                <action type="spawn" thingToSpawn="rat" />
+			</on_search>
+		</entity>
+	
+		<entity id="chest1" >
+			<on_search>
+				<action type="spawn" thingToSpawn="vase" />
+			</on_search>
+		</entity>
+		
+		<entity id="chest2" >
+			<on_search>
+				<action type="spawn" thingToSpawn="vase" />
+			</on_search>
+		</entity>
+	
+		<entity id="shelf1" >
+			<on_search>
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+			</on_search>
+		</entity>
+	
+		<entity id="spider1" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider1" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="spider5" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider5" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="spider5" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="table1" >
+			<on_search>
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+			</on_search>
+		</entity>
+	
+		<entity id="chair1" >
+			<on_search>
+				<action type="save_happy_haunt" />
+			</on_search>
+		</entity>
+	
+		<entity id="spider2" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider2" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="spider2" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="spider3" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider3" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="spider3" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="spider4" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider4" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="spider4" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="chest3" >
+			<on_search>
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+			</on_search>
+		</entity>
+	
+		<entity id="armor1" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="armor1" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor1" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor1" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor1" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="armor2" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="armor2" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor2" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor2" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor2" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor2" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="armor3" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="armor3" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor3" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor3" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="armor4" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="armor4" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor4" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor4" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="armor5" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="armor5" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor5" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor5" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor5" state="off" />
+				</action>
+			</interaction>
+		</entity>
+		
+		<entity id="armor6" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="armor6" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor6" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor6" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="armor6" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="chest4" >
+			<on_search>
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+				<action type="save_happy_haunt" />
+			</on_search>
+		</entity>
+	
+		<entity id="spider6" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider6" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="spider6" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="spider7" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider7" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="spider8" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider8" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="spider9" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider9" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="spider9" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="spider9" state="off" />
+				</action>
+			</interaction>
+		</entity>
+	
+		<entity id="spider10" state="on" >
+			<interaction>
+				<action type="save_happy_haunt" >
+					<object id="spider10" state="off" />
+				</action>
+				<action type="save_happy_haunt" >
+					<object id="spider10" state="off" />
+				</action>
+			</interaction>
+		</entity>
+		
+		
+		<entity id="candelabra1" state="off" shape="small" />
+		
+		<entity id="candelabra2" state="off" shape="small" />
+		
+		<entity id="candelabra3" state="off" shape="big" />
+		
+		<entity id="candelabra4" state="off" shape="big" />
+		
+		<entity id="candelabra5" state="off" shape="big" />
+		
+		<entity id="candelabra6" state="off" shape="big" />
+		
+		<entity id="candelabra7" state="off" shape="big" />
+		
+		
+		<entity id="secret_door_1" state="on" >
+			<interaction>
+				<action type="off" condition="and" >
+					<object id="pedestal_1" state="on" />
+					<object id="pedestal_2" state="on" />
+					<object id="pedestal_3" state="on" />
+					<object id="pedestal_4" state="on" />
+				</action>
+				<!--<action type="on" condition="or" >
+					<object id="pedestal_1" state="off" />
+					<object id="pedestal_2" state="off" />
+					<object id="pedestal_3" state="off" />
+					<object id="pedestal_4" state="off" />
+				</action>-->
+			</interaction>
+		</entity>
+		
+		<entity id="secret_door_2" state="on" >
+			<interaction>
+				<action type="off" >
+					<object id="door_2_switch" state="on" />
+				</action>
+			</interaction>
+		</entity>
+		
+		
+		<entity id="painting_1" >
+			<on_search>
+				<action type="teleport_actor" markerID="painting_1_exit" />
+			</on_search>
+		</entity>
+		
+		<entity id="painting_2" >
+			<on_search>
+				<action type="teleport_actor" markerID="painting_2_exit" />
+			</on_search>
+		</entity>
+		
+		<entity id="painting_3" >
+			<on_search>
+				<action type="teleport_actor" markerID="painting_3_exit" />
+			</on_search>
+		</entity>
+		
+		<entity id="painting_4" >
+			<on_search>
+				<action type="teleport_actor" markerID="painting_4_exit" />
+			</on_search>
+		</entity>
+		
+	
+		<entity id="trigger_pedestal_0" >
+			<on_enter>
+				<action type="show_popup" popupID="secretdoor" />
+			</on_enter>
+		</entity>
+		
+		<entity id="trigger_pedestal_1" >
+			<on_enter>
+				<action type="show_popup" popupID="secretdoor" />
+			</on_enter>
+		</entity>
+		
+		<entity id="trigger_pedestal_2" >
+			<on_enter>
+				<action type="show_popup" popupID="secretdoor" />
+			</on_enter>
+		</entity>
+		
+		<entity id="trigger_pedestal_3" >
+			<on_enter>
+				<action type="show_popup" popupID="secretdoor" />
+			</on_enter>
+		</entity>
+		
+	</entities>
+	
+	
+	<music>
+	
+		<sound key="graveyard_music" className="SGraveyardMusic" loops="true" />
+
+	</music>
+	
+	
+	<popups>
+	
+		<popup id="secretdoor" tutorial="true" icon="leota" />
+		
+		<popup id="key_dropped_1" tutorial="false" icon="happy_haunt" />
+		<popup id="key_dropped_2" tutorial="false" icon="happy_haunt" />
+		
+		<popup id="respawn" tutorial="true" icon="leota" />
+	</popups>
+    
+</level>

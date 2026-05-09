@@ -1,0 +1,12 @@
+<!-- default values are
+	baseVolume="1.0"
+	basePan="0.0"
+	loops="false"
+	baseOffset="0.0"
+	-->
+
+<sounds>
+	
+	<sound key="menu_music" className="SMenuMusic" loops="true" />
+
+</sounds>

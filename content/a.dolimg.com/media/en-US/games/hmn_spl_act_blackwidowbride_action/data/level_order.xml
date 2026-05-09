@@ -1,0 +1,35 @@
+<level_order>
+	
+	<var name="number_of_levels" value="12" />
+	
+	<var name="level_1" value="foyer" />
+	<var name="level_2" value="portrait_chamber" />
+	<var name="level_3" value="portrait_hallway" />
+	<var name="level_4" value="grand_staircase" />
+	<var name="level_5" value="endless_hallway" />
+	<var name="level_6" value="corridor_of_doors" />
+	<var name="level_7" value="conservatory" />
+	<var name="level_8" value="seance_circle" />
+	<var name="level_9" value="grand_hall" />
+	<var name="level_10" value="attic" />
+	<var name="level_11" value="graveyard" />
+	<var name="level_12" value="mausoleum_entrance" />
+	
+	<var name="levels_with_husbands"
+		value="portrait_chamber,corridor_of_doors,conservatory,attic,graveyard" />
+	
+	<!-- how many happy haunts there are for each level -->
+	<var name="foyer_happy_haunts" value="83" />
+	<var name="portrait_chamber_happy_haunts" value="83" />
+	<var name="portrait_hallway_happy_haunts" value="83" />
+	<var name="grand_staircase_happy_haunts" value="84" />
+	<var name="endless_hallway_happy_haunts" value="83" />
+	<var name="corridor_of_doors_happy_haunts" value="83" />
+	<var name="conservatory_happy_haunts" value="83" />
+	<var name="seance_circle_happy_haunts" value="84" />
+	<var name="grand_hall_happy_haunts" value="83" />
+	<var name="attic_happy_haunts" value="83" />
+	<var name="graveyard_happy_haunts" value="83" />
+	<var name="mausoleum_entrance_happy_haunts" value="84" />
+	
+</level_order>

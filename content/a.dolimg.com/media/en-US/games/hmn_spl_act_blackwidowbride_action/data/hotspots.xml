@@ -1,0 +1,146 @@
+<hotspots>
+	
+	<MCRat x="22" y="20" />
+	
+	<MCSingingBust1 x="43" y="80" />
+	<MCSingingBust2 x="43" y="60" />
+	<MCSingingBust3 x="43" y="80" />
+	<MCSingingBust4 x="43" y="72" />
+	<MCSingingBust5 x="43" y="76" />
+	
+	<MCPuddle1 x="30" y="30" />
+	
+	<MCHappyHaunt x="41" y="94" />
+	
+	<MCDarknessSmall x="160" y="160" />
+	<MCDarknessBig x="224" y="224"/>
+	<MCDarknessHorizontal x="164" y="117"/>
+	<MCDarknessVertical x="117" y="164"/>
+	
+	<MCGus x="46" y="77" />
+	<MCPhineas x="40" y="83" />
+
+	<MCSuckFX_up x="122" y="227" />
+	<MCSuckFX_down x="135" y="27" />
+	<MCSuckFX_left x="230" y="133" />
+	<MCSuckFX_right x="26" y="122" />
+	
+	<MCEzra x="48" y="104" />
+	<MCEzraFireball x="47" y="90" />
+	
+	<MCChest x="26" y="52" />
+	
+	<MCBust x="15" y="29" />
+	<MCVase x="16" y="37" />
+	
+	<MCCandelabra x="33" y="100" />
+	
+	<MCSecretDoor x="94" y="36" />
+	
+	<MCPedestalNoButton x="21" y="61" />
+	<MCPedestalWithButton x="21" y="61" />
+	
+	<MCBookShelfSide x="50" y="120" />
+	<MCBookShelfFront x="40" y="125" />
+	
+	<MCElevated x="34" y="32" />
+	
+	<MCChair1 x="45" y="97" />
+	<MCChair2 x="53" y="100" />
+	
+	<MC4x4Table x="47" y="88" />
+	
+	<MC2x1CabinetFront x="47" y="110" />
+	<MC2x1CabinetSide x="52" y="90" />
+	
+	<MCHelpItem x="43" y="103" />
+	
+	<MCKey x="33" y="25" />
+	<MCGift x="17" y="27" />
+	<MCPearlNecklace  x="20" y="15" />
+	
+	<MCGhost1 x="17" y="54" />
+	<MCGhost2 x="17" y="48" />
+	<MCGhost3 x="23" y="53" />
+	
+	<MCFlavorGhost1 x="75" y="115" />
+	<MCFlavorGhost2 x="40" y="100" />
+	<MCFlavorGhost3 x="38" y="75" />
+	
+	<MCGlitter x="8" y="8" />
+	
+	<!-- different hotspots depending on the direction it's facing -->
+	<MCExitDoorUp x="52" y="64" />
+	<MCExitDoorDown x="54" y="40" />
+	<MCExitDoorLeft x="64" y="54" />
+	<MCExitDoorRight x="41" y="53" />
+	
+	<MCDoorUp x="50" y="52" />
+	<MCDoorDown x="50" y="48" />
+	<MCDoorLeft x="52" y="48" />
+	<MCDoorRight x="48" y="49" />
+	
+	<MCBreathingDoorUp x="50" y="52" />
+	<MCBreathingDoorDown x="50" y="48" />
+	<MCBreathingDoorLeft x="52" y="48" />
+	<MCBreathingDoorRight x="48" y="49" />
+	
+	<MCHelpItem x="21" y="61" />
+	
+	<MCTrumpet x="53" y="135" />
+	<MCHarp x="41" y="157" />
+	<MCDrum x="41" y="54" />
+	
+	<!-- these are common for all regular paintings -->
+	<PaintingUp x="42" y="42" />
+	<PaintingDown x="42" y="42" />
+	<PaintingLeft x="42" y="42" />
+	<PaintingRight x="42" y="42" />
+	
+	<!-- Level unique stuff -->
+	
+	<MCGeorge x="29" y="82" />
+	<MCFrank x="34" y="76" />
+	<MCCoffin x="37" y="111" />
+	<MCReginald x="43" y="101" />
+	<MCMarquis x="30" y="61" />
+	<MCAmbrose x="33" y="89" />
+	
+	<MCBride x="36" y="78" />
+	
+	<MCGroundPaintings x="35" y="32" />
+	<MCStretchPainting x="28" y="35" />
+	
+	<MCDancerGhost x="40" y="88" />
+	
+	<MCCrowbar x="20" y="30" />
+	
+	<MCHatShelf	x="27" y="37" />
+	<MCHat1	x="16" y="30" />
+	<MCHat2	x="16" y="45" />
+	<MCHat3	x="16" y="16" />
+	
+	<MCOrgan x="34" y="103" />
+	<MCOrganGhost x="33" y="89" />
+	
+	<MCLeotaTable x="29" y="82" />
+	<MCLeotaBook x="49" y="85" />
+	<MCLeotaChair x="83" y="169" />
+	
+	<MCBrickwall x="98" y="42" />
+	<MCGrave x="33" y="58" />
+	<MCGraveBuried x="32" y="26" />
+	<MCGraveSkull x="33" y="61" />
+	<MCGraveTilted x="34" y="62" />
+	<MCTree x="36" y="103" />
+	
+	<MCStairs x="32" y="45" />
+
+		<!-- Enemies -->
+	
+	<MCEnemyBride x="57" y="90" />
+	<MCKnight x="84" y="154" />
+	<MCSpider x="33" y="48" />
+	<MCEnemyDeath x="56" y="115" />
+	
+</hotspots>

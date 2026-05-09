@@ -1,0 +1,17 @@
+<!-- default values are
+	baseVolume="1.0"
+	basePan="0.0"
+	loops="false"
+	baseOffset="0.0"
+	-->
+
+<sounds>
+	
+	<sound key="default_ingame_music" className="SDefaultIngameMusic" loops="true" />
+	
+	<sound key="level_complete_music" className="SLevelCompletedMusic" loops="false" />
+	<sound key="level_failed_music" className="SLevelFailedMusic" loops="false" />
+	
+	<sound key="game_completed_music" className="SGameCompletedMusic" loops="true" />
+
+</sounds>

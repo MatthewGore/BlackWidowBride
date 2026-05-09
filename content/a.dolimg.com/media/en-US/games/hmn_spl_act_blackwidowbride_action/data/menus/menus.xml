@@ -1,0 +1,12 @@
+<assets>
+    
+	<item className="MCMainMenu" />
+	<item className="MCLevelSelectMenu" />
+	<item className="MCMenuPopUp" />
+    <item className="MCHTPMenu" />
+	<item className="MCLevelLoader" />
+	<item className="MCResultMenu" />
+	
+	<item className="MCStoryTextMask" />
+	
+</assets>

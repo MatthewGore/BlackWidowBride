@@ -1,0 +1,69 @@
+<assets>
+	
+	<item className="MCHappyHaunt" />
+	
+	<item className="MCDarknessSmall" />
+	<item className="MCDarknessBig" />
+	<item className="MCDarknessHorizontal" />
+	<item className="MCDarknessVertical" />
+	
+	<item className="MC2x1CabinetFront" />
+	<item className="MC2x1CabinetSide" />
+	<item className="MCBookShelfFront" />
+	<item className="MCBookShelfSide" />
+	<item className="MCChair1" />
+	<item className="MCChair2" />
+    <item className="MCPedestalNoButton" />
+	<item className="MCPedestalWithButton" />
+	<item className="MCChest" />
+	<item className="MCChestSide" />
+	<item className="MC4x4Table" />
+	
+	<item className="MCElevated" />
+	<item className="MCElevatedBig" />
+	
+	<item className="MCGift" />
+	<item className="MCPearlNecklace" />
+	<item className="MCKey" />
+    
+	<item className="MCBust" />
+	<item className="MCCandelabra" />
+	<item className="MCVase" />
+	
+	<item className="MCBluePainting" />
+	<item className="MCYellowPainting" />
+	<item className="MCPinkPainting" />
+	
+	<item className="MCEyesPainting1" />
+	<item className="MCEyesPainting2" />
+	
+	<item className="MCDoor" />
+	<item className="MCExitDoor" />
+	<item className="MCGroundButton" />
+	<item className="MCGroundButton2" />
+	<item className="MCSecretDoor" />
+	
+	<item className="MCGhost1"		/>
+	<item className="MCGhost2"		/>
+	<item className="MCGhost3"		/>
+	
+	<item className="MCFlavorGhost1" />
+	<item className="MCFlavorGhost2" />
+	<item className="MCFlavorGhost3" />
+	
+	<item className="MCHelpItem" />
+	
+	<item className="MCRat" horizontal_flip="true" />
+	
+	<item className="MCPuddle1" />
+	
+	<item className="MCBreathingDoor" />
+	
+	<!-- EFFECT OBJECTS -->
+	<item className="MCTileMarker" />
+	<item className="MCGlitter" />
+	
+	<!-- SPECIAL STUFF -->
+	<item className="MCInvisible" />
+	
+</assets>

@@ -1,0 +1,8 @@
+<assets>
+	
+	<item className="MCKnight" horizontal_flip="true" />
+	<item className="MCSpider" horizontal_flip="true" />
+	<item className="MCEnemyBride" horizontal_flip="true" />
+	<!--<item className="MCEnemyDeath" />-->
+	
+</assets>
